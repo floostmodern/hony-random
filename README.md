@@ -21,6 +21,7 @@ Todo (maybe, one day ...)
 
 - Proper web server in production (currently, Flask's developement server is used)
 - A homepage to introduce the different mode to the public
+- Better monad-styled error handling
 
 
 Tech debt (maybe, one day ...)
